@@ -20,7 +20,7 @@
 - `LUI/AUIPC`
 - `CSR`　　　　: 状态寄存器组         已经实现，还未上传
 - `CSRRW`　　　: 读写状态寄存器的指令  已经实现，还未上传
-- `Interrupt`　: 待续，有时间会更新
+- `Interrupt`　: 待续，有时间会更新...
 
 ## 链接
 [RV32I指令集](https://www.cnblogs.com/mikewolf2002/p/9864652.html "RV32I指令集")
